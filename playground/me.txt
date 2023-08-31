@@ -1,5 +1,0 @@
-{{#user}}
-Name: Parag Garg
-Skills: HTML, CSS, JS, Java, Power bi 
-Email: paraggarg969@gmail.com
-{{/user}}
